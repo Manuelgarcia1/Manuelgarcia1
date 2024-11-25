@@ -1,5 +1,5 @@
 <!-- Encabezado principal con estilo -->
-<h1 align="center">¡Hola! 👋 Soy [Tu Nombre]</h1>
+<h1 align="center">¡Hola! 👋 Soy Manuel García</h1>
 
 <!-- Imagen de portada -->
 <p align="center">
@@ -9,12 +9,12 @@
 <!-- Información personal -->
 <h2 align="center">Acerca de mí</h2>
 <p align="center">
-  Soy desarrollador con experiencia en <strong>JavaScript</strong>, <strong>Node.js</strong> y <strong>React</strong>. Me encanta crear aplicaciones dinámicas y resolver problemas complejos.
+  Soy desarrollador Full stack con experiencia en <strong>JavaScript</strong>, <strong>Node.js</strong> y <strong>React</strong>. Me encanta crear aplicaciones dinámicas y resolver problemas complejos.
 </p>
 
 <!-- Iconos y enlaces -->
 <p align="center">
-  <a href="https://github.com/usuario123">
+  <a href="https://github.com/Manuelgarcia1">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/usuario123/">
