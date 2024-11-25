@@ -31,7 +31,7 @@
 <h2>Proyectos Destacados</h2>
 <ul>
   <li>
-    <a href="https://github.com/Manuelgarcia1/API-NodeJS1">Proyecto 1</a>: API REST con Node.js y Express, optimizada con envío de mails, generación de PDFs, CSVs, y caché en Redis para mejorar el rendimiento.
+    <a href="https://github.com/Manuelgarcia1/API-NodeJS">Proyecto 1</a>: API REST con Node.js y Express, optimizada con envío de mails, generación de PDFs, CSVs, y caché en Redis para mejorar el rendimiento.
   </li>
   <li>
     <a href="https://github.com/Manuelgarcia1/ferias-del-centro">Proyecto 2</a>: Página web con React para una empresa ganadera, enfocada en brindar información y optimización SEO correspondiente.
