@@ -1,4 +1,8 @@
 <!-- Encabezado principal con estilo -->
+<p align="center">
+  <img src="https://via.placeholder.com/800x300/000000/FFFFFF?text=Tu+contenido+aquí" alt="Fondo oscuro personalizado">
+</p>
+
 <h1 align="center">¡Hola! 👋 Soy Manuel García</h1>
 
 <!-- Información personal -->
