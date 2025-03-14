@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/mG7j1aF.png" alt="Banner de Programador" width="100%" />
-</p>
 
 <!-- Encabezado -->
 <h1 align="center">¡Hola! 👋 Soy Manuel García</h1>
