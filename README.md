@@ -76,7 +76,7 @@ Soy un desarrollador **Full Stack** con experiencia en desarrollo backend y fron
 ### 📫 ¿Querés contactarme?
 
 > Estoy abierto a nuevas oportunidades laborales y colaboraciones 🤝  
-> Podés escribirme por [LinkedIn](https://www.linkedin.com/in/manuel-garc%C3%ADa-207b28230/) o seguirme en Instagram ✨
+> Podés escribirme por [LinkedIn](https://www.linkedin.com/in/manuel-garc%C3%ADa-207b28230/)
 
 ---
 
