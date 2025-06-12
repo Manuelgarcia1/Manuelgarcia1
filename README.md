@@ -78,7 +78,7 @@ Hecho con cariño para impresionar. ¡Siéntete libre de tomar inspiración!
     <td width="35%" valign="top">
       <!-- ¡SUPER IMPORTANTE! Graba un GIF corto de tu app y ponlo aquí -->
       <!-- Puedes usar herramientas como ScreenToGif (Windows) o Kap (Mac) -->
-      <img src="URL_DE_UN_GIF_O_IMAGEN_DE_TU_PROYECTO" alt="Demo del Sistema de Encuestas Anónimas" width="100%">
+      <img src="./Animation.gif" alt="Demo del Sistema de Encuestas Anónimas" width="100%">
     </td>
   </tr>
 </table>
@@ -97,7 +97,7 @@ Hecho con cariño para impresionar. ¡Siéntete libre de tomar inspiración!
         <a href="https://github.com/Manuelgarcia1/API-NodeJS" target="_blank">Ver Repositorio</a>
       </td>
       <td width="35%" valign="top">
-        <img src="./Animation.gif" alt="Demo del Sistema de Encuestas Anónimas" width="100%" height="auto">
+        <img src="" alt="Demo del Sistema de Encuestas Anónimas" width="100%" height="auto">
       </td>
     </tr>
   </table>
