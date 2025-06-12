@@ -65,7 +65,7 @@ Hecho con cariño para impresionar. ¡Siéntete libre de tomar inspiración!
       <p>
         <code>TypeScript</code> <code>NestJS</code> <code>Angular</code> <code>PostgreSQL</code> <code>TypeORM</code> <code>TailwindCSS</code> <code>Nodemailer</code> <code>Swagger</code>
       </p>
-      <a href="URL_DEL_REPOSITORIO_DE_ENCUESTAS" target="_blank">
+      <a href="https://github.com/Manuelgarcia1/encuestas-anonimas" target="_blank">
         <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white">
       </a>
       <!-- Si tienes una demo en vivo, ¡descomenta y usa este! -->
