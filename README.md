@@ -96,10 +96,8 @@ Hecho con cariño para impresionar. ¡Siéntete libre de tomar inspiración!
         <p>Backend modular con Express, JWT, envío de emails, PDF, CSV y caché con Redis.</p>
         <a href="https://github.com/Manuelgarcia1/API-NodeJS" target="_blank">Ver Repositorio</a>
       </td>
-      <td valign="top" width="50%">
-        <h4>🌱 Ferias del Centro</h4>
-        <p>Página institucional para empresa ganadera, desarrollada con React y optimizada para SEO.</p>
-        <a href="https://github.com/Manuelgarcia1/ferias-del-centro" target="_blank">Ver Repositorio</a>
+      <td width="35%" valign="top">
+        <img src="https://user-images.githubusercontent.com/116204240/328574986-3dd8f6cd-d635-437b-bdfa-1fa5d43d83e6.gif" alt="Demo del Sistema de Encuestas Anónimas" width="100%" height="auto">
       </td>
     </tr>
   </table>
