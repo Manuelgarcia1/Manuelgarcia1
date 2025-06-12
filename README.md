@@ -97,7 +97,7 @@ Hecho con cariño para impresionar. ¡Siéntete libre de tomar inspiración!
         <a href="https://github.com/Manuelgarcia1/API-NodeJS" target="_blank">Ver Repositorio</a>
       </td>
       <td width="35%" valign="top">
-        <img src="https://user-images.githubusercontent.com/116204240/328574986-3dd8f6cd-d635-437b-bdfa-1fa5d43d83e6.gif" alt="Demo del Sistema de Encuestas Anónimas" width="100%" height="auto">
+        <img src="./demo.gif" alt="Demo del Sistema de Encuestas Anónimas" width="100%" height="auto">
       </td>
     </tr>
   </table>
