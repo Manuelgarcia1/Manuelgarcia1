@@ -9,7 +9,7 @@ Hecho con cariño para impresionar. ¡Siéntete libre de tomar inspiración!
 <p align="center">
   <!-- ¡IMPORTANTE! Crea un banner atractivo en Canva.com y reemplaza la URL -->
   <!-- Consejo: Usa un fondo oscuro y los logos de NestJS, Angular, TypeScript y Node.js -->
-  <img src="https://plus.unsplash.com/premium_photo-1661963874418-df1110ee39c1?q=80&w=1386&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="100%" height="auto" alt="Banner de Manuel García - Desarrollador Full Stack">
+  <img src="https://plus.unsplash.com/premium_photo-1661963874418-df1110ee39c1?q=80&w=1386&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="100%" height="200" alt="Banner de Manuel García - Desarrollador Full Stack">
 </p>
 
 <!-- INTRODUCCIÓN -->
