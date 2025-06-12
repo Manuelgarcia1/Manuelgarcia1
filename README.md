@@ -9,7 +9,7 @@ Hecho con cariño para impresionar. ¡Siéntete libre de tomar inspiración!
 <p align="center">
   <!-- ¡IMPORTANTE! Crea un banner atractivo en Canva.com y reemplaza la URL -->
   <!-- Consejo: Usa un fondo oscuro y los logos de NestJS, Angular, TypeScript y Node.js -->
-  <img src="URL_DE_TU_BANNER_AQUÍ" alt="Banner de Manuel García - Desarrollador Full Stack">
+  <img src="https://unsplash.com/es/fotos/fondo-abstracto-del-numero-de-codigo-digital-representa-la-tecnologia-de-codificacion-y-los-lenguajes-de-programacion-KDMsC1xglWs" alt="Banner de Manuel García - Desarrollador Full Stack">
 </p>
 
 <!-- INTRODUCCIÓN -->
