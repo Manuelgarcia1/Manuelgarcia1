@@ -44,8 +44,8 @@ Hecho con cariño para impresionar. ¡Siéntete libre de tomar inspiración!
   <p>
     <b>Backend:</b> Express, JWT, Bcrypt, Nodemailer, Node-Cache, Swagger <br>
     <b>Frontend:</b> React, JavaScript (ES6+) <br>
-    <b>Bases de Datos:</b> PostgreSQL, MySQL  
-    <b>Caché y Optimización:</b> Redis, Node-Cache  
+    <b>Bases de Datos:</b> PostgreSQL, MySQL  <br>
+    <b>Caché y Optimización:</b> Redis, Node-Cache  <br>
     <b>Herramientas y DevOps:</b> Git, GitHub, PNPM, PM2, NGINX, VS Code
   </p>
 </details>
