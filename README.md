@@ -1,10 +1,3 @@
-<style>
-  @media (max-width: 768px) {
-    .hide-on-mobile {
-      display: none;
-    }
-  }
-</style>
 
 <!-- 
 ====================================================================================================
@@ -59,7 +52,7 @@ Hecho con cariño para impresionar. ¡Siéntete libre de tomar inspiración!
 <h2 align="center">🏆 Proyecto Destacado 🏆</h2>
 <table width="100%">
   <tr>
-    <td width="65%" valign="top">
+    <td width="100%" valign="top">
       <h3>🔐 Sistema de Encuestas Anónimas</h3>
       <p>Plataforma full-stack que garantiza la privacidad de los participantes, permitiendo a los creadores gestionar encuestas y visualizar resultados agregados sin comprometer la identidad de los votantes.</p>
       <h4>✨ <strong>Características Principales:</strong></h4>
@@ -83,9 +76,6 @@ Hecho con cariño para impresionar. ¡Siéntete libre de tomar inspiración!
       </a>
       -->
     </td>
-    <td width="35%" valign="top" class="hide-on-mobile">
-      <img src="./Animation.gif" alt="Demo del Sistema de Encuestas Anónimas" height="100%" width="100%">
-</td>
   </tr>
 </table>
 
