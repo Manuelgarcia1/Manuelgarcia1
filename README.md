@@ -1,3 +1,11 @@
+<style>
+  @media (max-width: 768px) {
+    .hide-on-mobile {
+      display: none;
+    }
+  }
+</style>
+
 <!-- 
 ====================================================================================================
 ¡Hola! 👋 Bienvenido al código de mi perfil.
@@ -75,11 +83,9 @@ Hecho con cariño para impresionar. ¡Siéntete libre de tomar inspiración!
       </a>
       -->
     </td>
-    <td width="35%" valign="top">
-      <!-- ¡SUPER IMPORTANTE! Graba un GIF corto de tu app y ponlo aquí -->
-      <!-- Puedes usar herramientas como ScreenToGif (Windows) o Kap (Mac) -->
-      <img src="./Animation.gif" alt="Demo del Sistema de Encuestas Anónimas" height="100% "width="100%">
-    </td>
+    <td width="35%" valign="top" class="hide-on-mobile">
+      <img src="./Animation.gif" alt="Demo del Sistema de Encuestas Anónimas" height="100%" width="100%">
+</td>
   </tr>
 </table>
 
