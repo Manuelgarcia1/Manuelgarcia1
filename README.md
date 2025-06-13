@@ -36,36 +36,31 @@ Hecho con cariño para impresionar. ¡Siéntete libre de tomar inspiración!
 <details align="center">
   <summary>⚙️ Ver más herramientas y tecnologías</summary>
   <br>
+
+  <p align="center"><b>🔧 Backend y Seguridad:</b></p>
   <p align="center">
-    <b>🔧 Backend:</b><br>
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
     <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
     <img src="https://img.shields.io/badge/Bcrypt-5A2C8F?style=for-the-badge&logo=security&logoColor=white" alt="Bcrypt">
     <img src="https://img.shields.io/badge/Nodemailer-3C873A?style=for-the-badge&logo=maildotru&logoColor=white" alt="Nodemailer">
-    <img src="https://img.shields.io/badge/Node--Cache-9E9E9E?style=for-the-badge" alt="Node-Cache">
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
+    <img src="https://img.shields.io/badge/Node--Cache-9E9E9E?style=for-the-badge" alt="Node-Cache">
   </p>
-  
+
+  <p align="center"><b>🎨 Frontend complementario:</b></p>
   <p align="center">
-    <b>🎨 Frontend:</b><br>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
     <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   </p>
 
+  <p align="center"><b>🧠 Bases de Datos + Cache:</b></p>
   <p align="center">
-    <b>🗄️ Bases de Datos:</b><br>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
     <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  </p>
-
-  <p align="center">
-    <b>⚡ Caché y Optimización:</b><br>
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-    <img src="https://img.shields.io/badge/Node--Cache-9E9E9E?style=for-the-badge" alt="Node-Cache">
   </p>
 
+  <p align="center"><b>🛠️ Herramientas y DevOps:</b></p>
   <p align="center">
-    <b>🛠️ Herramientas y DevOps:</b><br>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     <img src="https://img.shields.io/badge/PNPM-F69220?style=for-the-badge&logo=pnpm&logoColor=black" alt="PNPM">
@@ -73,7 +68,9 @@ Hecho con cariño para impresionar. ¡Siéntete libre de tomar inspiración!
     <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
   </p>
+
 </details>
+
 
 <br>
 
