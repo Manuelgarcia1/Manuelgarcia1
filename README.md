@@ -57,8 +57,7 @@ Este proyecto consolidó mi forma de trabajar backend:
 - Minimización de puntos de ruptura y diseño defensivo.
 - Emails transaccionales seguros con tokens únicos.
 
-**Aprendizaje:** un backend profesional no son endpoints;  
-es diseño, coherencia, seguridad y responsabilidad.
+**Aprendizaje:** entendí que un backend serio no se trata solo de endpoints; requiere diseño, coherencia, seguridad y una responsabilidad técnica constante.
 
 ### Aplicación Mobile (React Native + Expo + NestJS)
 Proyecto full stack completo donde aprendí:
@@ -69,7 +68,7 @@ Proyecto full stack completo donde aprendí:
 - Control de errores, logs, permisos y optimización real del bundle.
 - Publicación y testing interno sobre Android.
 
-**Aprendizaje:** entregar software móvil real es ingeniería, no solo programar pantallas.
+**Aprendizaje:** aprendí que llevar una app móvil a producción implica mucho más que programar pantallas; es un proceso que exige cuidado con la infraestructura, los entornos y las credenciales.
 
 ---
 
@@ -101,4 +100,4 @@ Mi objetivo es crecer como backend engineer profesional y aportar valor real a p
 
 ## 📫 Contacto
 **LinkedIn:**  
-https://www.linkedin.com/in/manuel-garc%C3%ADa-207b28230/
+https://www.linkedin.com/in/manuel-alejandro-garc%C3%ADa-207b28230/
