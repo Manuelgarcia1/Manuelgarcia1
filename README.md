@@ -18,10 +18,9 @@ Mi enfoque:
 - Modelado de bases de datos relacionales con PostgreSQL/MySQL, integridad, migraciones y relaciones complejas.
 - Seguridad avanzada: JWT, refresh tokens rotativos, manejo de sesiones y OTP.
 - Redis para cache, invalidación, throttling y optimización.
-- Diseño de APIs REST robustas, paneles administrativos, PWAs y servicios escalables.
+- Diseño de APIs REST robustas, paneles administrativos.
 
 ### Experiencia Full Stack real
-- Angular para paneles administrativos y dashboards.
 - React para páginas institucionales, SEO y frontends limpios.
 - React Native + Expo para aplicaciones móviles completas, conectadas a APIs reales.
 
