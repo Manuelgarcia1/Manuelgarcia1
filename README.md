@@ -73,11 +73,11 @@ Proyecto full stack completo donde aprendí:
 
 ## 💼 Qué aporto a una empresa
 
--Diseño técnico claro y orientado a buenas prácticas.
--Código mantenible y estructurado.
--Capacidad para trabajar backend de forma profesional.
--Visión full stack para entender el flujo completo.
--Documentación y comunicación técnica precisa.  
+- Diseño técnico claro y orientado a buenas prácticas.
+- Código mantenible y estructurado.
+- Capacidad para trabajar backend de forma profesional.
+- Visión full stack para entender el flujo completo.
+- Documentación y comunicación técnica precisa.  
 
 Mi objetivo es crecer como backend engineer profesional y aportar valor real a productos serios.
 
