@@ -44,7 +44,7 @@ Aprendí en profundidad todo el flujo mobile:
 ## 📘 Aprendizajes profundos de mis proyectos
 
 ### Sistema de Encuestas Anónimas (NestJS + Angular + PostgreSQL)
-# 🔗 [Repositorio](https://github.com/Manuelgarcia1/encuestas-anonimas)
+## 🔗 [Repositorio](https://github.com/Manuelgarcia1/encuestas-anonimas)
 
 Este proyecto consolidó mi forma de trabajar backend:
 - Diseño de un sistema centrado en privacidad estricta.
@@ -57,7 +57,7 @@ Este proyecto consolidó mi forma de trabajar backend:
 **Aprendizaje:** entendí que un backend serio no se trata solo de endpoints; requiere diseño, coherencia, seguridad y una responsabilidad técnica constante.
 
 ### Aplicación Mobile (React Native + Expo + NestJS)
-# 🔗 [Repositorio](https://github.com/Manuelgarcia1/CachiBache)
+## 🔗 [Repositorio](https://github.com/Manuelgarcia1/CachiBache)
 
 Proyecto full stack completo donde aprendí:
 - Arquitectura mobile con React Native + Expo.
