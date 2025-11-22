@@ -1,4 +1,4 @@
-# Manuel García — Full Stack Developer  
+# Manuel Alejandro García — Full Stack Developer  
 ### Especializado en Backend (TypeScript · NestJS · Arquitectura · Seguridad)
 
 Soy un desarrollador full stack con fuerte orientación al backend. Me enfoco en construir sistemas robustos, seguros y mantenibles, aplicando arquitectura, patrones de diseño, modelado profesional de datos y buenas prácticas.
