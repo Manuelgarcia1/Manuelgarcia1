@@ -89,7 +89,7 @@ Mi objetivo es crecer como backend engineer profesional y aportar valor real a p
 `TypeScript` · `NestJS` · `Node.js` · `PostgreSQL` · `MySQL` · `TypeORM` · `JWT` · `Redis` · `Nginx`
 
 ### Frontend / Mobile
-`Angular` · `React` · `React Native` · `Expo` · `TailwindCSS` . `NextJS`
+`React` · `React Native` · `Expo` · `TailwindCSS` . `NextJS`
 
 ### DevOps / Herramientas
 `Docker` · `Git` · `PNPM` · `PM2` · `Swagger` · `Nodemailer` · `EAS Build`
