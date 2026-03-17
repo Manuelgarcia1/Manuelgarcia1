@@ -1,101 +1,43 @@
-# Manuel Alejandro García — Full Stack Developer  
-### Especializado en Backend (TypeScript · NestJS · Arquitectura · Seguridad)
+# Manuel García — Backend Engineer
 
-Backend Specialist (TypeScript · NestJS · Arquitectura · Seguridad)
+TypeScript · NestJS · PostgreSQL · Node.js
 
-Desarrollador full stack con foco marcado en backend. Trabajo con TypeScript, NestJS, bases de datos relacionales y diseño de APIs escalables. Me interesan la arquitectura, la seguridad y la calidad del código.
-
----
-
-## 🔍 Fortalezas técnicas
-
-### Backend
-- NestJS con módulos bien delimitados, DI, pipes, guards, interceptores.
-- TypeScript estricto bajo principios SOLID.
-- Modelado de datos relacional (PostgreSQL / MySQL) con migraciones, índices y relaciones complejas.
-- Seguridad: JWT, refresh tokens, rotación, sesiones, OTP.
-- Redis: caché, rate-limiting, invalidación y optimizaciones.
-- Diseño de APIs REST consistentes y mantenibles.
-
-### Full Stack
-- React para páginas institucionales, SEO y frontends limpios.
-- React Native + Expo para aplicaciones móviles completas, conectadas a APIs reales.
-
-Mi visión full stack nace de comprender cómo interactúan todas las capas, pero siempre con foco profesional en backend.
-
-### Mobile: React Native, Expo y despliegue profesional
-Aprendí en profundidad todo el flujo mobile:
-- Configuración completa de **credenciales en EAS** (Android Keystore, signing, secrets).
-- Builds de producción reales (APK, AAB) usando **EAS Build**.
-- Versionado, release channels y testing interno.
-- Manejo de entornos, variables y configuración para producción.
-- Integración en tiempo real con backend NestJS.
-- Deploy del backend en Railway + PostgreSQL en producción.
-
-**Aprendizaje clave:** llevar una app desde el código hasta producción requiere entender credenciales, infraestructura, seguridad y entornos.
-
-### Enfoque de trabajo
-- Diseño antes que implementación.
-- Código claro, modular y mantenible.
-- Documentación técnica y decisiones justificadas.
-  
----
-
-## 📘 Aprendizajes profundos de mis proyectos
-
-### Sistema de Encuestas Anónimas (NestJS + Angular + PostgreSQL)
-## 🔗 [Repositorio](https://github.com/Manuelgarcia1/encuestas-anonimas)
-
-Este proyecto consolidó mi forma de trabajar backend:
-- Diseño de un sistema centrado en privacidad estricta.
-- Acceso sin login mediante enlaces únicos, seguros y expirables.
-- API modular, mantenible y orientada a principios SOLID.
-- Uso profesional de TypeORM: migraciones, relaciones, cascadas.
-- Minimización de puntos de ruptura y diseño defensivo.
-- Emails transaccionales seguros con tokens únicos.
-
-**Aprendizaje:** entendí que un backend serio no se trata solo de endpoints; requiere diseño, coherencia, seguridad y una responsabilidad técnica constante.
-
-### Aplicación Mobile (React Native + Expo + NestJS)
-## 🔗 [Repositorio](https://github.com/Manuelgarcia1/CachiBache)
-
-Proyecto full stack completo donde aprendí:
-- Arquitectura mobile con React Native + Expo.
-- Manejo profesional de credenciales (keystores, signing, secrets).
-- Generación de binarios de producción con **EAS Build** sin depender de configuraciones locales.
-- Integración con API NestJS para login, roles y lógica de estado.
-- Control de errores, logs, permisos y optimización real del bundle.
-- Publicación y testing interno sobre Android.
-
-**Aprendizaje:** aprendí que llevar una app móvil a producción implica mucho más que programar pantallas; es un proceso que exige cuidado con la infraestructura, los entornos y las credenciales.
+Backend developer enfocado en arquitectura limpia, APIs escalables y código que se puede mantener. Visión full stack con foco profesional en el servidor.
 
 ---
 
-## 💼 Qué aporto a una empresa
+## Stack
 
-- Diseño técnico claro y orientado a buenas prácticas.
-- Código mantenible y estructurado.
-- Capacidad para trabajar backend de forma profesional.
-- Visión full stack para entender el flujo completo.
-- Documentación y comunicación técnica precisa.  
+**Backend**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
-Mi objetivo es crecer como backend engineer profesional y aportar valor real a productos serios.
+**Frontend / Mobile**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
----
-
-## 🛠 Stack actual
-
-### Backend
-`TypeScript` · `NestJS` · `Node.js` · `PostgreSQL` · `MySQL` · `TypeORM` · `JWT` · `Redis` · `Nginx`
-
-### Frontend / Mobile
-`React` · `React Native` · `Expo` · `TailwindCSS` . `NextJS`
-
-### DevOps / Herramientas
-`Docker` · `Git` · `PNPM` · `PM2` · `Swagger` · `Nodemailer` · `EAS Build`
+**DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 📫 Contacto
-**LinkedIn:**  
-https://www.linkedin.com/in/manuel-alejandro-garc%C3%ADa-207b28230/
+## Proyectos
+
+**[Encuestas Anónimas](https://github.com/Manuelgarcia1/encuestas-anonimas)** — Sistema de encuestas con privacidad estricta, acceso sin login por enlace único, emails transaccionales y API modular en NestJS + PostgreSQL.
+
+**[CachiBache](https://github.com/Manuelgarcia1/CachiBache)** — App mobile full stack con React Native + Expo + NestJS. Build de producción con EAS, autenticación JWT, deploy en Railway.
+
+**[Estudiantes Padel](https://github.com/Manuelgarcia1/padelbook)** — Sistema de gestión de turnos para club de padel. NestJS + Prisma + TanStack Start. En desarrollo.
+
+---
+
+## Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-alejandro-garc%C3%ADa-207b28230/)
