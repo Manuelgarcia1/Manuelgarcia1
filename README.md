@@ -31,13 +31,11 @@ Backend developer enfocado en arquitectura limpia, APIs escalables y código que
 
 ---
 
-## Proyectos
+## Actualmente
 
-**[Encuestas Anónimas](https://github.com/Manuelgarcia1/encuestas-anonimas)** — Sistema de encuestas con privacidad estricta, acceso sin login por enlace único, emails transaccionales y API modular en NestJS + PostgreSQL.
-
-**[CachiBache](https://github.com/Manuelgarcia1/CachiBache)** — App mobile full stack con React Native + Expo + NestJS. Build de producción con EAS, autenticación JWT, deploy en Railway.
-
-**[Estudiantes Padel](https://github.com/Manuelgarcia1/padelbook)** — Sistema de gestión de turnos para club de padel. NestJS + Prisma + TanStack Start. En desarrollo.
+- Construyendo APIs en producción con NestJS + PostgreSQL
+- Explorando arquitectura de microservicios y event-driven patterns
+- Abierto a oportunidades backend en TypeScript/Node.js
 
 ---
 
